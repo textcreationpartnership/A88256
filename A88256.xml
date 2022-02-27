@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To every individuall member of the Honourable House of Commons: the humble remembrance of Lieutenant Col. John Lilburn.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88256</idno>
+            <idno type="STC">Wing L2184</idno>
+            <idno type="STC">Thomason E461_36</idno>
+            <idno type="STC">ESTC R205207</idno>
+            <idno type="EEBO-CITATION">99864638</idno>
+            <idno type="PROQUEST">99864638</idno>
+            <idno type="VID">116870</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88256)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116870)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E461[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To every individuall member of the Honourable House of Commons: the humble remembrance of Lieutenant Col. John Lilburn.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Detention of persons --  Early works to 1800.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116870:1"/>
+            <head>To every individuall Member of the Honou<g ref="char:EOLhyphen"/>rable Houſe of COMMONS: <hi>The Humble Remembrance of Lievtenant Col.</hi> JOHN LILBURN.</head>
+            <opener>
+               <salute>Honoured Sir,</salute> 
+               <date>
+                  <hi>September</hi> 4. 1648.</date>
+            </opener>
+            <p>VOuchaſafe to take notice and ſeriouſly to conſider, That the firſt week this preſent Parliament ſat, which is now almoſt full eight years agoe, I preſented a humble Petiti<g ref="char:EOLhyphen"/>on to the Houſe of Commons, for juſtice and right a<g ref="char:EOLhyphen"/>gainſt the cruel Judges of the <hi>high Commiſſion Court,</hi> and the <hi>Starchamber,</hi> and I had the honour (the ſame day it was preſented) to be one of the firſt priſoners in <hi>England</hi> that was ſet at li<g ref="char:EOLhyphen"/>berty by this Parliament, and alſo received a ſpeedy, full, faire and canded proceeding, in the hearing and examining of my tyrannicall ſufferings; but by reaſon of multiplicity of publicke buſineſſe, <hi>&amp;c.</hi> I have not as yet been able to attain to the full end of my legall and juſt expectation and right, <hi>viz.</hi> Reparations for my long, ſad and tor<g ref="char:EOLhyphen"/>menting ſufferings, by the foreſaid unjuſt and unrighteous Judges.</p>
+            <p>Be pleaſed alſo favourably to take notice, That upon the firſt of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> laſt there was an humble Petition preſented to the Honourable Houſe of Commons, ſubſcribed by many thouſands of honeſt Citizens <hi>&amp;c.</hi> humbly to deſire you to put me in the full poſſeſſion of all your by paſt juſt Votes about my foreſaid ſufferings: upon reading and deba<g ref="char:EOLhyphen"/>ting of which Petition, as inanſwer to that particular of it, your Houſe were pleaſed to make this inſuing Order.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>
+                           <hi>Die Martis</hi> 1. Auguſti. 1648.</head>
+                        <opener>
+                           <salute>Lord <hi>Carre,</hi> Sir <hi>John Maynard,</hi> Sir <hi>Peter Went worth,</hi> Col. <hi>Boſſell,</hi> Col. <hi>Ludlow,</hi> M. <hi>Copley,</hi> M, <hi>Holland.</hi>
+                           </salute>
+                        </opener>
+                        <p>IT is referred to this Committee or any five of them, to conſider how Col. <hi>John Lilburne</hi> may have ſuch ſatisfaction and allowance for his ſufferings and loſſes,
+<pb n="2" facs="tcp:116870:2"/>as was formerly intended him by this Houſe.</p>
+                        <closer>
+                           <signed>
+                              <hi>Henry Elſing.</hi> Cler. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>unto which ſaid Committee at there firſt ſitting I preſented a Peti<g ref="char:EOLhyphen"/>tion; the Copy of which thus followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Honourable the Committee of the Houſe of Commons appointed to conſider of Lievt. Col. <hi>Lilburns</hi> buſines in reference to the Starchamber.</head>
+                        <head type="sub">The humble Petition of Lievtenant Col. <hi>John Lilburn,</hi>
+                        </head>
+                        <opener>SHEWETH,</opener>
+                        <p>THat beſides your Petitioners ſufferings by reaſon of his baniſhment into the low Countries, he was I committed by D. <hi>Lamb, Gwin, Aylet,</hi> 1637. and afterwards had 3 years impriſonment in the common Gaole of the <hi>Fleet;</hi> being whipt from <hi>Fleet-bridge</hi> to <hi>Weſtminſter,</hi> and enduring the cruel torment of above 500 ſtripes with knotted Cords: afterwards being ſet in the Pillory for the ſpace of two houres; and by <hi>James Ingram</hi> Deputy Warden of the <hi>Fleet,</hi> gagged, tearing his Jawes almoſt in peeces, without Or<g ref="char:EOLhyphen"/>der: which ſentence was given by Lord Keeper <hi>Coventry,</hi> Earle of <hi>Mancheſter</hi> Lord privy Seal; Lord <hi>Newburgh,</hi> Sir <hi>Henry Vane</hi> Senior: Lord Chief Juſtice <hi>Brampſton,</hi> and Judge <hi>Jones.</hi> And after the barbarous execution of this ſentence, being <hi>April</hi> 18. 1638. The ſaid Lord <hi>Coventry,</hi> Arch Biſhop of <hi>Canterbury, Biſhop</hi> of <hi>London,</hi> Earle of <hi>Man<g ref="char:EOLhyphen"/>cheſter,</hi> Earle of <hi>Arrundell,</hi> Earle of <hi>Salisbury,</hi> Lord <hi>Cottington,</hi> Lord <hi>Newburgh,</hi> Secre<g ref="char:EOLhyphen"/>tary <hi>Cooke,</hi> and <hi>Windebanke,</hi> paſſed another ſentence in effect for the Starving of your petitioner, and for the tormenting of him with Irons upon both hands and legs night and day; and by keeping him cloſe in the common Gaole of the <hi>Fleet</hi> from the ſpeech of any of his friends; all which was executed with the greateſt cruelty that could be, for the ſpace of almoſt three years together, to the apparent hazard of his life, both by ſtarving him, which was with all art and induſtry ſeverall waies attempted, and alſo by ſeverall aſſaults made upon him by the ſaid Wardens, men (inſtigated thereunto by the ſaid deputy Warden, to the mayming &amp; wounding him, whereby to this day he is totally deprived of the uſe of two of his fingers: All which with much more too tedious to be hear inſerted, was fully proved by ſufficient witneſſes, before a Committee of your Houſe, whereof M. <hi>Francis Rouſe</hi> had the Chaire, upon whoſe report made <hi>May</hi> 4. 1641, Your Houſe Voted, That the ſentence in the Star-chamber given againſt the ſaid <hi>John Lilburne,</hi> and all the proceedings there upon was illegall, and againſt the liberty of the Subject, and alſo bloody, wicked, cruel, barbarous and tyrannicall; and that he ought to have good reparations therefore, which Votes (by reaſon of multiplicity of bu<g ref="char:EOLhyphen"/>ſineſſe in your Houſe) coſt your Petitioner ſome years of importunate and chargeable attendance to git them tranſmitted to the Lords, which was obtained in <hi>Febr.</hi> 1645. The 13. day of which Moneth your Petitioners whol cauſe was effectually opened at the Lords Barre, by his learned Councel M. <hi>Bradſhaw</hi> and M. <hi>John Cooke;</hi> and there every particular again proved upon Oath by teſtimony of people of very good quality, where<g ref="char:EOLhyphen"/>upon they concurred in all things with the Houſe of Commons, ſaving in the matter of reparation; but upon the delivery of a true narrative, the Copy whereof is hereunto an<g ref="char:EOLhyphen"/>nexed, which your Petitioner with his own hands in the ſame moneth delivered unto
+<pb n="3" facs="tcp:116870:2"/>every individuall Lord) they made a further decree that your petitioner ſhould have 2000 li reparations out of the eſtates of the ſaid Lord <hi>Cottington,</hi> Sir <hi>Francis Windebank</hi> and <hi>James Ingram,</hi> for the reaſons alledged in an Ordinance which they paſſed in <hi>April</hi> 1646. and tranſmitted to your Houſe, where it hath lain dormant everſince, and is now referred to the conſideration of this honourable Committee,</p>
+                        <p>Now foraſmuch as by the judiciall Lawes of God, which are the pure lawes of right reaſon, <hi>he that wilfully hurteth his neighbour,</hi> is bound to the performance of theſe five things. Firſt, If it be a blemiſh or wound, like for like, or to redeem it with money, thereby to ſatisfie him for his wound. Secondly, For his pain and torment. Thirdly, For the healing. Fourthly, For his loſſe of time in his calling. Fiftly, For the ſhame and diſ<g ref="char:EOLhyphen"/>grace; all which are to be conſidered according to the quaility of the perſon damnified: which reparations are to be paid out of the beſt of the goods of him that damnified him, and that without delay.</p>
+                        <p>And as the Law of God, ſo the Lawes of this Nation, doth abhorre and hath ſeverely puniſhed (above all perſons) Judges manytimes with the loſſe of their lives and eſtates, who under colour of Law, have violated their Oaths, and deſtroyed the lives, liberties, and properties of the People whom by law they ſhould have preſerved: as may be in<g ref="char:EOLhyphen"/>ſtanced by the 44 Judges and Juſtices hanged in one yeare, by King <hi>Alfred;</hi> divers of them for leſſe crimes then hath been done in this caſe of your petitioner: As may be read in the Law book, called the <hi>Mirrour of Juſtice,</hi> tranſlated and re-printed this very Parliament: and by Juſtice <hi>Thorpe</hi> in <hi>Edw.</hi> the thirds time, who was deſtroyed for the vi<g ref="char:EOLhyphen"/>olation of his Oath, for taking ſmall ſums of money in cauſes depending before him: as appears in <hi>Cooks Inſtitutes.</hi>
+                        </p>
+                        <p>And by the Lord Chief Juſtice <hi>Triſillian,</hi> &amp;c. who in full Parliament, in <hi>Rich.</hi> the ſeconds time, was attached as a Traitor, in the forenoon, &amp; had his throat cut at <hi>Tyburne</hi> in the after-noon, becauſe he had given it under his hand that the King might create unto himſelf at his pleaſure another rule to walk by then the Law of the Land preſcribes him: as appears by the Parliament Records in the Tower, and by many of your own Declarations.</p>
+                        <p>Now for aſmuch as your petitioners ſufferings hath been unparralled, and his preju<g ref="char:EOLhyphen"/>dice ſuſtained thereby altogether unrepairable; having loſt his limbes, &amp;c. And foraſ<g ref="char:EOLhyphen"/>much as by the Law of God, nature and Nations, reparations for hurts and damages re<g ref="char:EOLhyphen"/>ceived, ought to be ſatisfied as far as may be in all perſons, though done by acci<g ref="char:EOLhyphen"/>dent and not intentionally, and though through ignorance: much more when the perſons offending, did it knowingly and on purpoſe in the face, nay, in the ſpight of the fundamentall Lawes of the Laud, which they were ſworn to preſerve: And for that the reparations in the ſaid Ordinance aſſigned doth ſcarſe amount to what your pe<g ref="char:EOLhyphen"/>titioner ſpent in his three years ſad captivity, and his now almoſt eight years chargable attendance, in ſuing for it, beſides the loſſe of a rich &amp; profitable Trade for eleven years together; and his wounds, torments, ſmart and diſgrace ſuſtained by his ſaid tyran<g ref="char:EOLhyphen"/>nicall ſentences.</p>
+                        <p>He therefore humbly prayeth the favour and juſtice of this honorable Committee for ſome conſiderable augmentation of his ſaid reparations, and the rather, becauſe his fellow ſufferer Doctor <hi>Baſtwick</hi> had 4000 li. reparations alotted him, whoſe ſufferings (he ſubmiſſively conceiveth) was nothing nigh ſo great, in torment, pain and ſhame as your Petitioners) And foraſmuch as the now Lord <hi>Coventry,</hi> ſon and heire to the foreſaid Lord <hi>Coventry,</hi> hath walked in his Fathers Steps, in enmity to the Lawes, Liberties and freedome of the Nation; by being in armes at the be<g ref="char:EOLhyphen"/>ginning
+<pb n="4" facs="tcp:116870:3"/>of the wars againſt the Parliament, and made his peace with the Earle of <hi>Eſſex</hi> for a ſmall matter, and hath ſince diſerted the Kingdome, living in <hi>France</hi> privately, receiving the profits of a vaſt eſtate which his Father left him. And for<g ref="char:EOLhyphen"/>aſmuch as his ſaid Father (the late Lord <hi>Coventry</hi>) was the activeſt man in the in<g ref="char:EOLhyphen"/>fringing the Lawes and liberties of the Nation; although a Lawyer and Judge, ſitting on the ſupreme ſeat of Juſtice, and a perſon (as is groundedly c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nceived) who got a great eſtate by corruption) and particularly a man that principally paſſed, as chief Judge of the Court; both the aforeſaid ſentences againſt your Pe<g ref="char:EOLhyphen"/>titioner: And inregard the eſtates of the ſaid Lord <hi>Cottington,</hi> and Sir <hi>Francis Win<g ref="char:EOLhyphen"/>debank,</hi> by ſubſequent orders of both Houſes upon urgent occaſions are much in<g ref="char:EOLhyphen"/>tangled and altered from the condition they were in, in 1646. when the Lords ordered your Petitioner 2000 Maskes out of them, and for that the eſtate of <hi>James Ingram</hi> cannot be found nor at preſent come by. Your Petitioner there<g ref="char:EOLhyphen"/>fore moſt humbly prayeth, That the greateſt part, if not all your Petitioners repa<g ref="char:EOLhyphen"/>rations may be fixed upon the ſaid now Lord <hi>Coventries</hi> eſtate, to be immedi<g ref="char:EOLhyphen"/>ately paid your Petitioner; or elſe that his Rents, &amp; the profits of his woods, and goods may be ſeized in the reſpective Counties where they lye, for the ſatisfying thereof; that your Petitioner may no longer run the hazzard of ruine to him and his, by tedious delaies, having already contracted the debts of many hundreds of pounds, occaſioned by the chargable proſecution hereof: And that if you ſhall think of conjoyning any other with him, That it may be principally the Judges of the Law; who ought to have been Pilots and guides unto the reſt of the Judges of that Court, who were Lords, and perſons not knowing the Law.</p>
+                        <closer>
+                           <signed>And Your Petitioner ſhall ever pray, <hi>&amp;c. John Lilburne.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After the reading of which they entered into a ſerious debate of the whole buſineſſe, and thereupon paſſed ſeverall Votes to be the heads of an Ordinance to be drawn up and reported to the Houſe, by the Right honourable the Lord <hi>Carre,</hi> Chair-man to the ſaid Committee, who accordingly reported the proceedings and votes of the ſaid Committee to your Houſe, who approved of the ſaid Votes, and Or<g ref="char:EOLhyphen"/>dered an Ordinance to be preſented to the Houſe conſonant thereun<g ref="char:EOLhyphen"/>to, which was accordingly done by the Lord <hi>Carre,</hi> which Ordinance hath been once read in your Houſe: The Copy of which thus fol<g ref="char:EOLhyphen"/>lowes.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="ordinance">
+                        <pb n="5" facs="tcp:116870:3"/>
+                        <head>An Ordinance of the Lords and Commons Aſſembled in Parliament, for the raiſing of three thouſand pounds, out of the reall Eſtate of the late <hi>Thomas</hi> Lord <hi>Coventry;</hi> late Lord Keeper of the Great Seal of <hi>England,</hi> for and towards the reparation and damages of <hi>John Lilburne,</hi> Gent. which he ſuſteined by ver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ue &amp; colour of two Sentences given and made againſt him, in the late Court of <hi>Starchamber:</hi> the one the <hi>13.</hi> of <hi>February, 1637.</hi> and the other the <hi>18.</hi> of <hi>April, 1638.</hi>
+                        </head>
+                        <p>WHereas the cauſe of <hi>John Lilburn,</hi> Gent. concerning two Sentences pronounced againſt him in the late Court of <hi>Starchamber,</hi> 13. <hi>Febr.</hi> 13. <hi>Car. Regis,</hi> and 18. <hi>April,</hi> 14. <hi>Car. Regis.</hi> (which were Voted the 4. <hi>May,</hi> 1641. by the Houſe of Com<g ref="char:EOLhyphen"/>mons to be Illegall, and againſt the liberty of the Subject, and alſo bloody, wicked, cruel, barbarous, and tyrannicall,) were tranſmitted from the ſaid Houſe of Commons, unto the Houſe of Lords; who thereupon, by one Order or decree by them made, 13. <hi>Febru.</hi> 1645. Adjudged and Declared the ſaid proceedings of the ſaid <hi>Starcham<g ref="char:EOLhyphen"/>ber,</hi> againſt the ſaid <hi>John Lilburn,</hi> to be Illegal, and moſt unjuſt, and againſt the liberty of the Subject, and Law of the Land, and <hi>Magna Charta,</hi> and unfit to continue upon Record, <hi>&amp;c.</hi> And by another Order or Decree, made by them the ſaid Lords, the the 5. <hi>March,</hi> 1645. they aſſigned to be paid unto the ſaid <hi>John Lilburn,</hi> the ſumme of two thouſand pounds, for his reparations; and the ſaid Houſe of Peeres then fixed that ſumme upon the eſtates reall, and perſonall, of <hi>Francis</hi> Lord <hi>Cottington,</hi> Sir <hi>Francis Windebanck,</hi> and <hi>James Ingram,</hi> late Deputy Warden of the Fleet: and afterwards for the preſent levying thereof, with allowance of Intereſt, in caſe of obſtruction, while the ſame ſhould be in levying, and of ſuch part as ſhould not be forthwith levyed; The ſaid Houſe of Peers did cauſe an Ordinance to be drawn up, and paſſed the ſame in their Houſe, the 27. <hi>April,</hi> 1646. and afterwards tranſmitted the ſame to the Houſe of Commons, for their concurrence; with whom it yet dependeth. And for as much as ſince that tranſmition, all, or the greateſt part, of the eſtates of the ſaid Lord <hi>Cottington,</hi> and Sir <hi>Francis Windebanck,</hi> is ſince by both Houſes diſpoſed of to other uſes, and the eſtate of the ſaid <hi>James Ingram,</hi> is ſo ſmale and weak, and ſo intangled with former in<g ref="char:EOLhyphen"/>cumbrances, that it can afford little or no part unto the ſaid <hi>John Lilburn,</hi> of the ſaid reparation. And for that the ſaid late Lord <hi>Coventry,</hi> was the principall Judge; and chief Actor, in the giving of both the ſaid Illegal Sentences, in the ſaid Court of <hi>Starcham<g ref="char:EOLhyphen"/>ber;</hi> and for the barbarous inflicting of puniſhments thereupon:</p>
+                        <p>Therefore, and for ſatisfaction of the ſaid two thouſand pounds, and for the increaſe of reparation unto the ſaid <hi>John Lilburne</hi> for his extraordinary wrongs, ſufferings and loſſes thereby ſuſteined, and the long time hitherto elapſed without any ſatisfaction. The Lords and Commons aſſembled in Parliament doe ordain, And be it hereby ordained by the ſaid Lords and Commons and by Authority of the ſame, That the ſaid <hi>John Lilburne</hi> ſhall have and receive the ſumme of three thouſand pounds, out of all, or any the Man<g ref="char:EOLhyphen"/>nours, Meſuages, Lands, Tenements and Hereditaments, whereof he the ſaid late
+<pb n="6" facs="tcp:116870:4"/>
+                           <hi>Thomas Lord Coventry,</hi> or any other perſon or perſons to or for his uſe, or in truſt for him, was or were ſeized in ſee-ſimple or ſee-raile or other wiſe, at the time of the ſaide ſentences or decrees or of either of them, in the ſaid late <hi>Court</hi> of <hi>Star-chamber,</hi> or fince within the <hi>Kingdome</hi> of <hi>England</hi> or <hi>Dominion</hi> of <hi>Wales,</hi> any Order or Ordinance hereto<g ref="char:EOLhyphen"/>fore made by either or both Houſes of Parliament for the imployment of the eſtate of the ſaid late <hi>Thomas Lord Coventry</hi> to the contrary hereof in any wiſe notwithſtanding. And for the more ſpeedy levying of the ſaid ſumme of three thouſand pounds, It is fur<g ref="char:EOLhyphen"/>ther Ordered and Ordained, That the ſeverall and reſpective Sheriffs, of the ſeveral and reſpective Counties, within <hi>England</hi> and <hi>Wales,</hi> wherein any of the ſaid Lands, Tene<g ref="char:EOLhyphen"/>ments, or Hereditaments doe lye, ſhall forthwith upon ſight, and by vertue of this Or<g ref="char:EOLhyphen"/>dinance cauſe an inquiſition to be made, and taken by the oathes of twelve or more Iawfull men, where the ſame lands do lye, and what the ſame are and do contain, and of the clear yearly value thereof, over and above all charges and re-priſes; and after ſuch inquiſition ſo made and taken, the ſaid ſeverall and reſpective <hi>Sheriffs,</hi> ſhall deliver unto the ſaid <hi>John Lilburn</hi> true copies in <hi>Parchment</hi> of the ſame inquiſitions by them taken, and ſhall then alſo deliver unto the ſaid <hi>John Lilburne</hi> the ſaid Lands, Tenements and Hereditaments which ſhall be ſo compriſed or mentioned in the ſaid inquiſitions. To have and to hold, to him the ſaid <hi>John Lilburne</hi> and his <hi>aſſignes</hi> without impeachment of waſt; and untill he ſhall have received out of the iſſues and profits thereof (to be eſti<g ref="char:EOLhyphen"/>mated according to the yearly valews contained in the ſaid inquiſitions) the ſaid ſumme of three thouſand pounds; together with all reaſonable charges and expences to bee ſuſtained from henceforth for obtaining the ſaid ſumme of three thouſand pounds: And all and every the ſaid ſeverall and reſpective <hi>Sheriffs,</hi> and all other perſon and perſons whatſoever that ſhall any waies act or aſſiſt in obedience to this Ordinance, according to the true intent and meaning thereof, ſhall bee therfore defended and kept harmleſſe by the authority of both Houſes of Parliament.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Be pleaſed further to take notice, That after the foreſaid Ordinanance, was once read it came to a debate in your Houſe for to be read the ſecond time, which was carried in the negative by majority of voices; and I cannot but apprehend that there were divers in the Houſe unſatisfied in the Ordinance it ſelf, in regard the Houſe was divided upon the debate and Vote, which I cannot but apprehend muſt flow from one of theſe two conſiderations.</p>
+            <p>Friſt, Either becauſe that the whole reparations is fixed upon the Lord <hi>Coventries</hi> eſtate ſingly, who had many co-partners in the ſentences, and who alſo it may be ſup<g ref="char:EOLhyphen"/>poſed hath explated his crime by his death. Or elſe ſecondly, Becauſe in ſome mens thoughts, ſome of my late actions have (or are) been ſo evill in themſelves that they may ſeem to them to over ballance the merrits of all my ancient ſufferings.</p>
+            <p>To the firſt of which, beſides the reaſons contained in the foregoing Petition, I hum<g ref="char:EOLhyphen"/>bly crave leave to offer theſe unto your juditious conſideration.</p>
+            <p>Firſt, I have by almoſt eight years dear-bought experience, found the intereſt of ſome of my forementioned potent Judges (who yet fit in both Houſes of Parliament) to be too ſtrong for me to grapple with (and the only cauſe in my apprehenſion that hath al this while kept me from my own) and the refore my own intereſt (which compels me ſtrongly to endeavour by all juſt waies and means to attain to my juſt end reparations)
+<pb n="7" facs="tcp:116870:4"/>neceſſiates me as much as I can to wave the fixing upon them.</p>
+            <p>Secondly, I continually finde amongſt the greateſt part of my Judges an apprehention in their own ſpirits, that in conſcience and equity there ought to be fauour ſhewed to thoſe of my <hi>Star-chamber</hi> Judges that have joyned with the Parliament and Kingdome, rather then to thoſe that have fought and conteſted againſt them both and that ſeeing the later are able enough in eſtates to make ſatisfaction, it ought in conſcience and e<g ref="char:EOLhyphen"/>quity ſoly to lye upon their heads; and I being not to guide or command my Judges, but rather to be in this guided and commanded by them, and to acquieſe in their rea<g ref="char:EOLhyphen"/>ſons they give me, eſpecially when my own underſtanding tels me they moſt conduce to the obtaining my main end, which is juſtice in the poſſeſſing of my own. Now theſe things conſidered, and conjoyned to the reaſons laid down in my foregoing Petition, I ſubmiſſively conceive, as things now ſtand, in Law, equity and conſcience, no juſter ob<g ref="char:EOLhyphen"/>ject can be found for you to fix my reparations upon then the reall eſtate (where-ever it is to be found) of the late Thomas Lord <hi>Coventry,</hi> who was the principall actor in this bloody tragidy: and who was not leſſe eminent in cruelty then in place, being Judge of the higheſt ſeat of mercy, the <hi>Chancery,</hi> which ought to abate the edge of the Law, when it is too keen: Now for the chief Judge of mercy to degenerate into a ſavage cauel<g ref="char:EOLhyphen"/>ty, not heard of amongſt the <hi>barbarians,</hi> nor to be read of in the hiſtories of the bloo<g ref="char:EOLhyphen"/>dyeſt perſecutors, how trancendently hainous and puniſhable is it?</p>
+            <p>And though he be dead, yet juſtice lives; and whatſoever is become of him, his eſtate ought to make ſatisfaction, according to the rule of his own court of <hi>Star-chamber, he that ſuffers not in his body, muſt ſuffer in his purſe.</hi> And therfore I may juſtly expect my reparations out of his reall eſtate that he was poſſeſſor of at his death, where ever I can now finde it; whether it be in the poſſeſſion of the preſent <hi>Lord Coventry,</hi> or others; and you may there as righteous judges fix it for theſe reaſons;</p>
+            <p>Firſt, Becauſe the ſaid <hi>Tho.</hi> late <hi>Lord Coventries</hi> real eſtate, in equity, if not in the eye of the Common law, ought to ſatisfy his debts, though dead; though now it be in the poſ<g ref="char:EOLhyphen"/>ſeſſion of the preſent <hi>Lord Coventry</hi> &amp;c. and in reaſon and conſcience there is at leaſt as much equity that it ſhould repair injuries, eſpecially of ſo high a nature as mine is of; and the rather, if it be conſidered that the late <hi>Lordkeeper Coventry</hi> had, beſides his real eſtate, a very conſiderable perſonal eſtate at his death; which I deſire not to medle with, although it be deſcended to his heires <hi>&amp;c.</hi>
+            </p>
+            <p>Secondly, Becauſe the eſtate now in the hands of the ſon and heire, <hi>&amp;c.</hi> of the late Lord Keeper <hi>Coventry</hi> deſcended from him, and was in the hands of the ſaid late Lord Keeper <hi>Coventry</hi> himſelf, at the time and ſome years after his paſſing the forementioned two illegall and barbarous ſentences againſt me. Now in caſe I could have enjoyed the benefit of the Law then, or immediatly after they were paſſed againſt me, I might by an action of the caſe have had at Law ſatisfactory damages out of his eſtate: And if there was any Law or equity for reparations to be given me out of his eſtate then, the equity and juſtice of the caſe is nothing altered by the ſaid late Lord <hi>Coventries</hi> deſeaſe, and bequeſt of the ſame eſtate to the preſent Lord <hi>Coventry</hi> his Son or others</p>
+            <p>Thirdly, becauſe the late <hi>Lord keeper Coventries,</hi> paſſing ſuch ſentences as he did againſt me, was (as may appear by the Votes of your own Houſe, made in the caſe, 4. <hi>May,</hi> 1641.) a ſubverſion of the Fundamentall Lawes and Conſtitutions of the Land, and in the Caſe of the Earl of <hi>Strafford,</hi> that was adjudged Treaſon: And in the caſe of Trea<g ref="char:EOLhyphen"/>ſon, the Law doth diſ-inherit and diſ-franchiſe all the poſterity of any one adjudged guilty thereof; therefore my reparations for tranſcendent injuries, done in ſuch an ex<g ref="char:EOLhyphen"/>traordinary caſe, out of the eſtate of the Father, though it be deſcended to the Son, or
+<pb n="8" facs="tcp:116870:5"/>Sons, &amp;c. is no injury to them in equity nor conſcience: neither doe I conceive, that in caſe this Parliament ſhould impoſe a Fine of ten-times as much as my reparations amounts unto, out of the aforeſaid late Lord <hi>Coventries</hi> vaſt eſtate, to be paid to the publike pur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the Kingdome, for the ſatisfaction of the publike Juſtice thereof, and the expiation of his notorious and ſuparlative crimes, could not in the leaſt, in equity, reaſon and conſcience, be eſteemed unjuſt in the eye of any impartial, righteous, or juſt man in <hi>England;</hi> And ſo much in Anſwer to the firſt Objection.</p>
+            <p>And now with all reſpect to the Juſt Honour of Parliament, a word or two to the ſecond: which is, That it may be in ſome Parliament Mens thoughts, the evil of ſome of my late actions, may way down the merit and deſert of all my ancient ſufferings; and therefore to quit ſcores with me, without paſſing my Ordinance for <hi>Star chamber</hi> repa<g ref="char:EOLhyphen"/>ration is to large Juſtice in the ſtrictneſſe of Juſtice for me?</p>
+            <p>To which with all modeſty and reſpect, I Anſwer:</p>
+            <p>Admit my late actions were as vilde, and as puniſhable, as by the worſt of my enemies can be ſuppoſed to be, yet there can be no Juſtice in quiting ſcores with me therefore; and the reaſon is, becauſe that were not only to puniſh me for good actions done, which my ſufferings againſt the <hi>Starchamber</hi> was, and was almoſt eight-years ago ſo adjudged by your own Votes: but it were alſo to acquit and gratifie the guilty and obnoxious, which the preſent Lord (<hi>Coventry</hi> upon your own principles) is, as well as his Father was: and the Spirit of truth ſaith, <hi>To juſtifie the wicked, and to condemn the Righteous is both, an abomination in the ſight of God.</hi>
+            </p>
+            <p>Secondly, I anſwer: It is not now ſeaſonable for me to juſtifie my ſelf, but rather to intreat you to doe me Juſtice and right, in paſſing my preſent Ordinance without any more delay, for my reparations; wherein I have deſerved well, by your own often and ancient confeſſions, before ever you had any pretence to fix upon me, or lay unto my charge; and when you have ſo done, if for any ſubſequent actions, any of you be offend<g ref="char:EOLhyphen"/>ed at me; I will put you in ſufficient and good Security to anſwer the Law, without in<g ref="char:EOLhyphen"/>terceding for mercy or compaſſion: But O if you be men of gallantry, Juſtice, honeſty, or conſcience, puniſh not my poor and afflicted Wife, and tender Babes, for my preten<g ref="char:EOLhyphen"/>ded tranſgreſſions, by expoſing them to famiſh, or eat one another, by keeping my own from me, which ſhould preſerve them alive, voted unto me by your ſelves, almoſt eight years ago; and when you have done; doe your pleaſure with me, even whatſoever ſeems good in your eyes: rather then expoſe me to ſee my deareſt Conſort, and the tender off<g ref="char:EOLhyphen"/>ſpring of our wombs, to periſh before my eyes; which I muſt ingeniouſly confeſſe, the ſtrength of duty, and naturall indeared affections, will not inable me to behold, with patience and ſilence: So deſiring God to direct your hearts, now at the laſt, to doe juſt and righteous things to me, and the Kingdome, for juſt and righteous ends. I take leave, in ſincerity, to ſubſcribe my ſelf,</p>
+            <closer>
+               <dateline>
+                  <hi>From the Tower of</hi> London <date>
+                     <hi>this</hi> 4. Septemb. 1648.</date>
+               </dateline>
+               <signed>Yours, to the laſt drop of my heart blood, either you be Gods, or your Countries) <hi>JOHN LILBURN.</hi>
+               </signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <p>Nevertheleſſe we, according to his promiſe, look for new Heavens, and a new Earth, wherein dwelleth righteouſneſſe:</p>
+                  <bibl>
+                     <hi>2 Peter, 3.13.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
